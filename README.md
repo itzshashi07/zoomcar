@@ -102,7 +102,7 @@ This entire journey of making the project was awesome. We have learned lots of t
 <img width="399" alt="mode of Pay" src="https://user-images.githubusercontent.com/91541289/141655235-20e1f725-b49f-47a8-9d06-8ea3963449f1.png">
 
 
-![](- ## <span style="color:blue"> Payment through Paytm Wallet  </span>
+![]- ## <span style="color:blue"> Payment through Paytm Wallet  </span>
 
 <img width="400" alt="patym Details" src="https://user-images.githubusercontent.com/91541289/141655237-e4c4b3e5-d120-49b4-8ded-9f840de87bf6.png">
 
@@ -135,62 +135,3 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 
 # <span style="color:red"> Thank Your For Reading </span>
-
-
-# <span style="color:red"> Team Members: </span>
-
-- # Pankaj Kumar (fw12_276)
-![WhatsApp Pankaj Image 2021-11-13 at 7 50 05 PM](https://user-images.githubusercontent.com/91541289/141654994-66b34ad4-9629-4f95-bfc1-f3f331191d8e.jpeg)
-
-[Twitter](https://twitter.com/realpankajk)
-
-[Linkedin](https://www.linkedin.com/in/iampankajk/)
-
-[Medium](https://medium.com/@iampankajk/zoomcar-com-clone-67ed397258e6)
-
-- # Nikita Parekh (fw11_255)
-![WhatsApp Nikita Image 2021-11-13 at 7 51 25 PM](https://user-images.githubusercontent.com/91541289/141654993-c8d58a91-2473-4e09-9ce0-9bfd25ab918a.jpeg)
-
-[Linkedin](https://www.linkedin.com/in/nikitaparekh00/)
-
-[Twitter]()
-
-[Medium]()
-
-- # Ranjan Kumar Thakur (fw12_053)
-![20211013_104347-removebg-preview (1)](https://user-images.githubusercontent.com/91541289/141654997-f5d7527f-292b-4e7d-844a-868ce935c6a2.png)
-
-[Linkedin](www.linkedin.com/in/ranjan-kumar-thakur-47a65662)
-
-[Twitter](twitter.com/Ranjank87465651)
-
-[Medium](https://medium.com/@ranjankumar1757/zoom-car-clone-learning-purpose-65675e5c064f)
-
-
-- # Mithlesh Kumar (fw11_268)
-![WhatsApp Mithilesh Image 2021-11-13 at 7 52 07 PM](https://user-images.githubusercontent.com/91541289/141654992-a9296907-a8a7-4f83-b8d6-4466632456f8.jpeg)
-
-[Linkedin]()
-
-[Twitter]()
-
-[Medium]()
-
-- # Raoji Patil (Fw11_170)
-![WhatsApp Raoji Image 2021-11-13 at 7 56 31 PM](https://user-images.githubusercontent.com/91541289/141654996-fac9822d-6873-45a9-adb7-7cf4ab94f31f.jpeg)
-
-[Linkedin](https://www.linkedin.com/in/raoji-patil-3355aa181/)
-
-[Twitter]()
-
-[Medium]()
-
-- # Priyanshi Tiwari (fw12_081)
-![WhatsApp Priyanshi Image 2021-11-13 at 7 53 15 PM](https://user-images.githubusercontent.com/91541289/141654995-dd3c0d86-80dc-41b1-a0e9-08eda6177862.jpeg)
-
-[Linkedin](https://www.linkedin.com/in/priyanshi-tiwari-493357192)
-
-[Twitter](https://twitter.com/Priyans22405795?t=ShI3baJfwv3OtkuTIkl-pQ&s=08)
-
-[Medium]()
-
